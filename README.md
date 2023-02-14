@@ -10,8 +10,8 @@ Esse projeto e um trabalho do IFNMG campus Almenara da diciplina de WEB I no 4º
 Tendo como objetivo aprender a como usar um framework.
 
 ## Acesse o site em
-* ![Adoro Receita](https://weest0.github.io/)
+* https://weest0.github.io/
 
-## Usados
+## BAseado em
 * ![Minha Receita](https://www.minhareceita.com.br/materia/retrospectiva-2022-as-melhores-receitas-e-dicas-vistas-no-minha-receita-esse-ano/)
 * ![Bootstrap](https://getbootstrap.com/)
