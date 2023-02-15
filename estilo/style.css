@@ -13,7 +13,9 @@
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
-
+.vid-home{
+	border: 2px solid white;
+}
 .zoom:hover img{
 	cursor: pointer;
   -moz-transform: scale(1.1);
@@ -27,6 +29,7 @@
 	background-color: #ff5959;
 }
 .fundo{
+	overflow: None;
 	font-family: "Open Sans",sans-serif;
 	background-color: #dbd8e3;
 	margin: 0;
@@ -201,7 +204,7 @@
 	top: 4%;
 	margin: 10px;
 }
-.list-home img{
+.list-home img,iframe{
 	width: 500px;
 	height: 350px;
 	margin-bottom: 3%;
@@ -271,4 +274,11 @@
 .aling-ingr{
 	position: relative;
 	left: 40%;
+}
+.obs{
+	color: red;
+}
+.conteudo-receita-maracuja{
+	width: 100%;
+	height: 80rem;
 }
