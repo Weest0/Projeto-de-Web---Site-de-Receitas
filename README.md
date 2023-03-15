@@ -9,9 +9,6 @@ Esse projeto e um trabalho do IFNMG campus Almenara da diciplina de WEB I no 4º
 ## Objetivo do Projeto
 Tendo como objetivo aprender a como usar um framework.
 
-## Acesse o site em
-* https://weest0.github.io/
-
 ## BAseado em
 * ![Minha Receita](https://www.minhareceita.com.br/materia/retrospectiva-2022-as-melhores-receitas-e-dicas-vistas-no-minha-receita-esse-ano/)
 * ![Bootstrap](https://getbootstrap.com/)
